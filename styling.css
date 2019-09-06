@@ -13,3 +13,7 @@
 #pagebottom{
     background-color: darkslategrey;
 }
+.btn-dark{
+	background-color: black;
+	color: white;
+}
